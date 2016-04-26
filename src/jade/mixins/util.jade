@@ -13,8 +13,8 @@ mixin github(data)
   li.contact-github&attributes(attributes)
     a(href="https://github.com/" + data.id)= "https://github.com/" + data.id
 
-mixin blog(data)
-  li.contact-blog&attributes(attributes)
+mixin codepen(data)
+  li.contact-codepen&attributes(attributes)
     a(href=data.url)= data.url
 
 mixin qrcode(data)

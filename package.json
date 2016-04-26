@@ -1,5 +1,5 @@
 {
-  "name": "joyee-resume",
+  "name": "boyce-resume",
   "version": "1.0.0",
   "description": "Read resume data from a JSON file and generate a static web page.",
   "main": "gulpfile.js",
