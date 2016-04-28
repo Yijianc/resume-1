@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/joyeecheung/resume.git"
+    "url": "https://github.com/Yijianc/resume-1.git"
   },
   "dependencies": {},
   "devDependencies": {
@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/joyeecheung/resume/issues"
   },
-  "homepage": "https://github.com/joyeecheung/resume",
+  "homepage": "https://github.com/Yijianc/resume-1",
   "keywords": [
     "resume"
   ]
